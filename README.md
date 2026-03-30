@@ -21,3 +21,47 @@ Thank you for being part of this community. Let’s keep experimenting.
 73,
 
 The FWCube Labs Team
+
+
+
+Last UPDATES:
+
+
+
+develop branch created.
+
+* MMANA-GAL files.
+* VNA Measurements and captures
+
+
+
+Rod lengths:
+
+UHF -->
+
+* Ref:65mm
+* Rad: 60mm
+* D1:50mm
+* D2:40mm
+
+
+
+VHF—>:
+
+* Ref: 30,5mm
+* Rad: 28,5mm
+
+
+
+Distances between loops (cms):
+
+
+
+UHF-REF + VHF-REF + UHF-RAD + UHF-D1 + VHF-RAD + UHF-D2
+
+&#x20;  0    +    6    +    6    +    8   +    6    +    6
+
+
+
+
+
