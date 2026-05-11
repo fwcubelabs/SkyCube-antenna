@@ -39,17 +39,17 @@ Rod lengths:
 
 UHF -->
 
-* Ref:65mm
-* Rad: 60mm
-* D1:50mm
-* D2:40mm
+* Ref: 65mm
+* Rad: 60 mm
+* D1: 50 mm
+* D2: 40 mm
 
 
 
 VHF—>:
 
-* Ref: 30,5mm
-* Rad: 28,5mm
+* Ref: 30,5 cm
+* Rad: 28,5 cm
 
 
 
@@ -63,5 +63,21 @@ UHF-REF + VHF-REF + UHF-RAD + UHF-D1 + VHF-RAD + UHF-D2
 
 
 
+URL Rods (5x500): https://es.aliexpress.com/item/1005005463057025.html?spm=a2g0o.cart.0.0.4c9b7a9dSI1C7a\&mp=1\&pdp\_npi=6%40dis%21EUR%21EUR+8.81%21EUR+5.99%21%21EUR+5.87%21%21%21%402103985c17785072864418036ede0b%2112000033189401880%21ct%21ES%21817449001%21%211%210%21\&gatewayAdapt=glo2esp
 
+
+
+URL Carbon Fiber Frame (10x10x8):https://es.aliexpress.com/item/1005003684213748.html?spm=a2g0o.cart.similar\_items.1.4c9b7a9dSI1C7a\&utparam-url=scene%3Aimage\_search%7Cquery\_from%3Acart\_soldout\_item%7Cx\_object\_id%3A1005003684213748%7C\_p\_origin\_prod%3A\&algo\_pvid=2df1007f-0ad4-4ffb-ade7-99764618f153\&algo\_exp\_id=2df1007f-0ad4-4ffb-ade7-99764618f153\&pdp\_ext\_f=%7B%22order%22%3A%22126%22%2C%22fromPage%22%3A%22search%22%7D\&pdp\_npi=6%40dis%21EUR%2111.89%2111.89%21%21%2113.66%2113.66%21%40211b61d017785073712714117ea831%2112000026804120891%21sea%21ES%21817449001%21X%211%210%21n\_tag%3A-29919%3Bd%3A4c99b22e%3Bm03\_new\_user%3A-29895\&gatewayAdapt=glo2esp
+
+
+
+URL Wire (18AWG): https://es.aliexpress.com/item/1005009222554126.html?spm=a2g0o.order\_list.order\_list\_main.126.4e1f194dVDhufu\&gatewayAdapt=glo2esp
+
+
+
+IMPORTANT: The size of the antenna loops may vary depending on the cable conductivity and losses. Adjust them by yourself.
+
+
+
+!\[FWCubeLabs Antenna](https://github.com/fwcubelabs/SkyCube-antenna/Images/CubeAntenna.png)
 
