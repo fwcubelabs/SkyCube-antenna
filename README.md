@@ -79,5 +79,5 @@ IMPORTANT: The size of the antenna loops may vary depending on the cable conduct
 
 
 
-!\[FWCubeLabs Antenna](https://github.com/fwcubelabs/SkyCube-antenna/Images/CubeAntenna.png)
+!\[FWCubeLabs Antenna](https://github.com/fwcubelabs/SkyCube-antenna/blob/develop/Images/CubeAntenna.png)
 
